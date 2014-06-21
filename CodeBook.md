@@ -108,6 +108,3 @@ NB! Columns 4-69 consist of means of the original data (by subject and activity)
 67.   "fBodyBodyGyroMag-std()"
 68.   "fBodyBodyGyroJerkMag-mean()"
 69.   "fBodyBodyGyroJerkMag-std()"  
-
-
-
