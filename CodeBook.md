@@ -39,6 +39,8 @@ Columns 4-69 of data.txt is a collection of **means (by acticity and subject) of
         Participating subjects
         
         Values 1-30
+
+NB! Columns 4-69 consist of means of the original data (by subject and activity).
         
 4.  "tBodyAcc-mean()-X"
 5.  "tBodyAcc-mean()-Y"    
