@@ -12,14 +12,21 @@ The original data can be found [here](https://d396qusza40orc.cloudfront.net/getd
 
         Activity Name
 
-        "WALKING" (1)
+        "WALKING" (Activity_ID 1)
 
-        "WALKING_UPSTAIRS" (2)
+        "WALKING_UPSTAIRS" (Activity_ID 2)
 
-        "WALKING_DOWNSTAIRS" (3)
+        "WALKING_DOWNSTAIRS" (Activity_ID 3)
 
-        "SITTING" (4)
+        "SITTING" (Activity_ID 4)
 
-        "STANDING" (5)
+        "STANDING" (Activity_ID 5)
 
-        "LAYING" (6)
+        "LAYING" (Activity_ID 6)
+3. subject
+
+        Participating subjects
+        
+        Values 1-30
+        
+4. 
